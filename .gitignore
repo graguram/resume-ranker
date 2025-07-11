@@ -1,0 +1,19 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Output files
+output/
