@@ -62,5 +62,5 @@ resume-ranker/
 
 ## ✨ Author
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by G Raguram  
 Feel free to use, modify, or contribute!
